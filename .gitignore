@@ -1,0 +1,10 @@
+# Ignorar entorno virtual
+venv/
+.env/
+.env.bak/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

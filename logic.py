@@ -13,6 +13,8 @@ REGIONES = {
     'POPAYAN': ['10101'],
     'SANTANDER': ['103', '10301'],
     'AMBIENTA': ['10401'],
+    'POPAYAN LA 7': ['10501'],
+    'PUERTO TEJADA': ['10601'],
     'VALLE': ['20101'],
     'PASTO': ['30101'],
     'TUQUERRES': ['30301'],
